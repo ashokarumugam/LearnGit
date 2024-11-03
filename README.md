@@ -1,6 +1,6 @@
 # 1. Learn Git
 
-Learning to use Git from VS code.
+Learning to use Git.
 
 # 2. Git Command Reference
 
@@ -14,7 +14,7 @@ Learning to use Git from VS code.
     git commit -m <message>                         -- commit changes to git with a commit message
     git push                                        -- push commits from local to remote repo
 
-## 2.2 Git Config reference
+## 2.2 Git Config
     git config --list                               -- list git config file entries
     git config --show-origin                        -- show origin and git file used to infer value
     git config --global user.name <user.name>       -- set user name (in global .gitconfig file)
